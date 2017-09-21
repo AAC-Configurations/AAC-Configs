@@ -16,4 +16,4 @@ __**REQUIRES:**__
 + AAC 3.3.2-b2 https://www.spigotmc.org/resources/aac-advanced-anti-cheat-hack-kill-aura-blocker.6442/
 
 __**OPTIONAL:**__
-+ AACAdditionPro 3.2.2 https://www.spigotmc.org/resources/aacadditionpro.33590/
++ AACAdditionPro 3.2.3 https://www.spigotmc.org/resources/aacadditionpro.33590/
